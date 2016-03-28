@@ -6,6 +6,7 @@ public class MyFirstSample {
 		
 		System.out.println("Hello Java");
 		System.out.println("This is second statement");
+		System.out.println("This is Third statement");
 	}
 
 }
